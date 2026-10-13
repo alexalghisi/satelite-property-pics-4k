@@ -18,6 +18,8 @@ On macOS, `scripts/takeoff.command` starts the same server and opens the workspa
 
 [Parcel Takeoff 1.0.0](https://github.com/alexalghisi/satelite-property-pics-4k/releases/download/v1.0.0/parcel-takeoff.zip)
 
+The same workspace is also published at https://alexalghisi.github.io/satelite-property-pics-4k/web/
+
 Unzip it and run `node scripts/serve.js` from that folder.
 
 ## What you see
