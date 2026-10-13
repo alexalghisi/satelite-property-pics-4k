@@ -1,0 +1,15 @@
+{
+    "name": "satelite-property-pics-4k",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "node scripts/serve.js",
+        "test": "node --test",
+        "check": "node scripts/check.js",
+        "sample": "node scripts/make-sample.js"
+    },
+    "engines": {
+        "node": ">=22"
+    }
+}
